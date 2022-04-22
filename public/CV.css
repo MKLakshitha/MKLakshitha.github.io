@@ -1,0 +1,54 @@
+
+
+.download-btn{
+    background-color: DodgerBlue;
+    color: white;
+    margin-left: 450px;
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+    text-decoration: none;
+    border-radius:8px;
+    
+}
+
+.download-btn:hover {
+    background-color: RoyalBlue;
+    color:rgb(63, 233, 69);
+  }
+  .download-Exam{
+    background-color: rgb(49, 30, 255);
+    color: white;
+    margin-left: 90px;
+    padding: 1rem 2rem;
+    font-size: 0.8rem;
+    text-decoration: none;
+    border-radius:8px;
+  }
+  .download-Exam:hover{
+    background-color: rgb(49, 30, 255);
+    color:rgb(33, 33, 36);
+  }
+  .download-project1{
+    background-color: rgb(49, 30, 255);
+    color: white;
+    margin-left: 290px;
+    padding: 1rem 2rem;
+    font-size: 0.8rem;
+    text-decoration: none;
+    border-radius:8px;
+  }
+  .download-project1:hover{
+    background-color: rgb(49, 30, 255);
+    color:rgb(33, 33, 36);
+  }
+  @media (max-width: 768px) {
+    .download-btn{
+      margin-left: 130px;
+    }
+    .download-Exam{
+      margin-left: 130px;
+    }
+    .download-project1{
+      margin-left: 155px;
+    }
+  };
